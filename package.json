@@ -1,6 +1,6 @@
 {
   "name": "@broadly/cordova-plugin-push",
-  "version": "4.0.2-dev",
+  "version": "4.0.3-dev",
   "description": "Register and receive push notifications.",
   "scripts": {
     "build": "babel src/js --out-dir www",
